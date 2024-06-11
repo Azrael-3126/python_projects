@@ -1,2 +1,2 @@
-# python_projects
-my python projects
+# python_projects_udemy
+my python projects 
